@@ -1,2 +1,2 @@
 # Food-Ordering-App
-Building a Food Ordering Application
+The Food Ordering App is a user-friendly mobile application that simplifies the process of ordering food from various restaurants. With an extensive selection of eateries and cuisines, users can explore menus, customize orders, and securely check out. Real-time order tracking ensures a seamless dining experience, and past order history enables quick reordering. Reviews and ratings help users make informed choices. The app aims to revolutionize food delivery, providing a delightful and convenient way to satisfy cravings and explore new culinary delights.
